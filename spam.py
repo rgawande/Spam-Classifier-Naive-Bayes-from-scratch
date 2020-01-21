@@ -2,7 +2,7 @@
 """
 Created on Fri Nov 22 21:02:22 2019
 
-@author: Rushikesh Gawande, Ruta Utture, Sumeet Sarode
+@author: Rushikesh Gawande
 """
 import os
 import sys
